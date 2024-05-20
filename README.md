@@ -1,3 +1,8 @@
+S.E. Wright wrote original version of this script with the help of M. Bryant and A. J. Cruz-Cabeza.
+J. Stevens helped update the script in 2024.
+
+The code checks whether a given conformation is typical of the CSD and classifies the torsions into usual or unusual change and adjustment.
+
 Please cite the following paper:
 
     Associated publication:
